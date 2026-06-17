@@ -51,5 +51,28 @@
     "coAuthors": [],
     "createdAt": "2026-06-17T17:56:35.598Z",
     "lastUpdated": "2026-06-17T17:56:35.598Z"
+  },
+  {
+    "id": "mqieft6o180hv0",
+    "title": "论坛",
+    "author": "11",
+    "intro": "读者可以讨论区",
+    "coverUrl": "https://raw.githubusercontent.com/youxiaoyu26/xs/main/zh/covers/mqieft6o180hv0.png",
+    "tags": [
+      "玄幻",
+      "都市",
+      "言情",
+      "轻小说",
+      "悬疑",
+      "短篇",
+      "科幻",
+      "其他",
+      "历史",
+      "武侠"
+    ],
+    "series": "论坛",
+    "coAuthors": [],
+    "createdAt": "2026-06-17T18:23:17.254Z",
+    "lastUpdated": "2026-06-17T18:23:17.254Z"
   }
 ]
